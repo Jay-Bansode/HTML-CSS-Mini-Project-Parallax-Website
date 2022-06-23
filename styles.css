@@ -19,27 +19,27 @@ body, html{
     min-height: 100%;
 }
 .para-img-3{
-    background-image: url(D:/HTML/Parallax_css_MiniProject/Assam.jpg);
+    background-image: url(./Assam.jpg);
     min-height: 100%;
 }
 .para-img-4{
-    background-image: url(D:/HTML/Parallax_css_MiniProject/Manipur.jpg);
+    background-image: url(./Manipur.jpg);
     min-height: 100%;
 }
 .para-img-5{
-    background-image: url(D:/HTML/Parallax_css_MiniProject/Meghalaya.jpg);
+    background-image: url(./Meghalaya.jpg);
     min-height: 100%;
 }
 .para-img-6{
-    background-image: url(D:/HTML/Parallax_css_MiniProject/Tripura.jpg);
+    background-image: url(./Tripura.jpg);
     min-height: 100%;
 }
 .para-img-7{
-    background-image: url(D:/HTML/Parallax_css_MiniProject/Arunachal.jpg);
+    background-image: url(./Arunachal.jpg);
     min-height: 100%;
 }
 .para-img-8{
-    background-image: url(D:/HTML/Parallax_css_MiniProject/Nagaland.jpg);
+    background-image: url(./Nagaland.jpg);
     min-height: 100%;
 }
 
