@@ -11,11 +11,11 @@ body, html{
   }
   
   .para-img-1{
-      background-image: url(D:/HTML/Parallax_css_MiniProject/main.jpg);
+      background-image: url(./main.jpg);
       min-height: 100%;
   }
   .para-img-2{
-    background-image: url(D:/HTML/Parallax_css_MiniProject/Mizoram.jpg);
+    background-image: url(./Mizoram.jpg);
     min-height: 100%;
 }
 .para-img-3{
