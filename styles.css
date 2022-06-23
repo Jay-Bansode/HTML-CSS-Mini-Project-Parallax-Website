@@ -11,19 +11,19 @@ body, html{
   }
   
   .para-img-1{
-      background-image: url(./main.jpg);
-      min-height: 100%;
+      background-image: url(main.jpg);
+      min-height: 100%; 
   }
   .para-img-2{
-    background-image: url(./Mizoram.jpg);
+    background-image: url(Mizoram.jpg);
     min-height: 100%;
 }
 .para-img-3{
-    background-image: url(./Assam.jpg);
+    background-image: url(Assam.jpg);
     min-height: 100%;
 }
 .para-img-4{
-    background-image: url(./Manipur.jpg);
+    background-image: url(Manipur.jpg);
     min-height: 100%;
 }
 .para-img-5{
